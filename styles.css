@@ -1,0 +1,297 @@
+/* css styles */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+
+  padding: 5rem 2rem;
+
+  min-height: 80vh;
+
+  background: linear-gradient(
+    135deg,
+    #f7f5f2,
+    #eef4ee
+  );
+
+  border-radius: 24px;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h1 {
+  font-size: 4rem;
+  line-height: 1.1;
+  color: #2f3e34;
+
+  margin-bottom: 1.5rem;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  color: #5c6b61;
+
+  margin-bottom: 2rem;
+}
+
+.hero-image {
+  flex: 1;
+  text-align: center;
+}
+
+.hero-image img {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+.btn-primary,
+.btn-secondary {
+  display: inline-block;
+
+  padding: 0.9rem 1.5rem;
+
+  border-radius: 12px;
+
+  text-decoration: none;
+
+  margin-right: 1rem;
+
+  transition: 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #6b8f71;
+  color: white;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background-color: white;
+  color: #2f3e34;
+}
+
+.navbar-brand img {
+  max-height: 80px;
+}
+
+.navbar {
+  background-color: #1a78d6;
+  backdrop-filter: blur(10px);
+}
+
+.events-hero {
+  padding: 6rem 2rem;
+  text-align: center;
+
+  background: linear-gradient(
+    135deg,
+    #eef4ee,
+    #f7f5f2
+  );
+
+  border-radius: 28px;
+
+  margin-bottom: 4rem;
+}
+
+.events-hero h1 {
+  font-size: 4rem;
+  color: #2f3e34;
+
+  margin-bottom: 1rem;
+}
+
+.events-hero p {
+  font-size: 1.2rem;
+  color: #5f6d63;
+}
+
+.event-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(320px, 1fr));
+
+  gap: 2rem;
+
+  margin-top: 2rem;
+}
+
+.event-card {
+  background: white;
+
+  border-radius: 24px;
+
+  overflow: hidden;
+
+  box-shadow: 0 8px 30px rgba(0,0,0,0.06);
+
+  transition: 0.3s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-6px);
+}
+
+.event-card img {
+  width: 100%;
+  height: 240px;
+
+  object-fit: cover;
+}
+
+.event-card h3 {
+  padding: 1rem 1.5rem 0.5rem;
+}
+
+.event-card p {
+  padding: 0 1.5rem;
+}
+
+.event-button {
+  display: inline-block;
+
+  margin: 1.5rem;
+
+  padding: 0.8rem 1.2rem;
+
+  border-radius: 12px;
+
+  background-color: #6b8f71;
+
+  color: white !important;
+
+  text-decoration: none;
+}
+
+.resource-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:24px;
+  margin-top:2rem;
+}
+
+.resource-card{
+  background:white;
+  border:1px solid #e5e7eb;
+  border-radius:18px;
+  padding:16px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.06);
+  transition:transform 0.2s ease;
+}
+
+.resource-card:hover{
+  transform:translateY(-4px);
+}
+
+.resource-card img{
+  width:100%;
+  height:180px;
+  object-fit:cover;
+  border-radius:12px;
+  margin:10px 0;
+}
+
+.resource-button{
+  display:inline-block;
+  margin-top:10px;
+  padding:10px 14px;
+  background:#2563eb;
+  color:white;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:600;
+}
+
+.resource-button:hover{
+  opacity:0.9;
+}
+
+.gadget-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 2rem;
+}
+
+.gadget-card{
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease;
+}
+
+.gadget-card:hover{
+  transform: translateY(-4px);
+}
+
+.gadget-card img{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 12px;
+}
+
+.navbar-nav::after{
+  content: "";
+  display: block;
+
+  width: 350px;
+  height: 80px;
+
+  margin-left: 12px;
+
+  background-image: url("img/logo-pd.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.gadget-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:24px;
+  margin-top:2rem;
+}
+
+.gadget-card{
+  background:white;
+  border:1px solid #e5e7eb;
+  border-radius:18px;
+  padding:16px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.06);
+  transition:transform 0.2s ease;
+}
+
+.gadget-card:hover{
+  transform:translateY(-4px);
+}
+
+.gadget-card p{
+  color:#555;
+}
+
+/* Immagini */
+.gadget-card img{
+  width:100%;
+  height:220px;
+  object-fit:cover;
+  border-radius:12px;
+  transition:transform 0.25s ease, box-shadow 0.25s ease;
+  cursor:pointer;
+}
+
+/* Hover zoom */
+.gadget-card img:hover{
+  transform:scale(1.05);
+  box-shadow:0 8px 20px rgba(0,0,0,0.15);
+}
