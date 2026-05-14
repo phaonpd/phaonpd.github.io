@@ -1,1 +1,1 @@
-Sitemap: https://phaonpd.github.io/PHA/sitemap.xml
+Sitemap: https://phaonpd.github.io/sitemap.xml
