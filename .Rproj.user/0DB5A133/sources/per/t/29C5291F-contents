@@ -1,0 +1,7 @@
+---
+title: "Eventi PHA"
+listing:
+  contents: events
+  type: grid
+  fields: [title, date, description, image]
+---

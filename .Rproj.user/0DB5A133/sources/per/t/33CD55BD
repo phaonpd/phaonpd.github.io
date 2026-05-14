@@ -1,0 +1,31 @@
+{
+    "id": "33CD55BD",
+    "path": "~/PHA/gadgets.qmd",
+    "project_path": "gadgets.qmd",
+    "type": "quarto_markdown",
+    "hash": "1251823572",
+    "contents": "",
+    "dirty": false,
+    "created": 1778414800289.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,12",
+        "scrollLine": "14",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "58:0",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1778766857,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1778766857264,
+    "read_only": false,
+    "read_only_alternatives": []
+}

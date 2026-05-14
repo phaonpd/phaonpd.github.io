@@ -1,0 +1,42 @@
+---
+format: html
+toc: false
+---
+
+# 📚 Risorse utili
+
+Materiali informativi creati per supportare studenti su gestione del tempo, stress e ansia.
+
+::: {.resource-grid}
+
+::: {.resource-card}
+### ⏳ Gestione del tempo
+
+![](img/tempo.jpg)
+
+Materiale pratico per organizzare studio e scadenze.
+
+[📄 Scarica il PDF](pdf/gestione-tempo.pdf){.resource-button}
+:::
+
+::: {.resource-card}
+### 😰 Ansia
+
+![](img/ansia.jpg)
+
+Strumenti e strategie per riconoscere e gestire l’ansia.
+
+[📄 Scarica il PDF](pdf/ansia.pdf){.resource-button}
+:::
+
+::: {.resource-card}
+### 🌿 Stress
+
+![](img/stress.jpg)
+
+Tecniche utili per ridurre stress e migliorare il benessere.
+
+[📄 Scarica il PDF](pdf/stress.pdf){.resource-button}
+:::
+
+:::

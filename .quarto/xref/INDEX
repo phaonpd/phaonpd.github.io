@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "5c84fdd7"
+  },
+  "about.qmd": {
+    "about.html": "d68061f2"
+  },
+  "events.qmd": {
+    "events.html": "d46a50f7"
+  },
+  "eventi.qmd": {
+    "eventi.html": "1b58b748"
+  },
+  "events/index.qmd": {
+    "index.html": "53d64af1"
+  },
+  "events/mense.qmd": {
+    "mense.html": "057999f8"
+  },
+  "gadgets.qmd": {
+    "gadgets.html": "ce118711"
+  },
+  "risorse.qmd": {
+    "risorse.html": "c2421028"
+  }
+}

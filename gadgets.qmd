@@ -1,0 +1,75 @@
+---
+format: html
+lightbox: true
+toc: false
+---
+
+# 🎁 I nostri gadget
+
+Durante i banchetti promozionali puoi ricevere diversi gadget gratuiti legati alle attività del progetto.
+
+::::::::::: gadget-grid
+::: gadget-card
+![](img/tote_bag_1.png){.lightbox}
+
+### Tote Bag
+
+Borsa in tela resistente, perfetta per l’università e la vita quotidiana.
+:::
+
+::: gadget-card
+![](img/tote_bag_2.png)
+
+### Tote Bag
+
+Borsa in tela resistente, perfetta per l’università e la vita quotidiana.
+:::
+
+::: gadget-card
+![](img/tote_bag_3.png)
+
+### Tote Bag
+
+Borsa in tela resistente, perfetta per l’università e la vita quotidiana.
+:::
+
+::: gadget-card
+![](img/sticker_a.png)
+
+### Sticker
+
+Adesivi per personalizzare laptop, quaderni e borracce.
+:::
+
+::: gadget-card
+![](img/sticker_b.png)
+
+### Sticker
+
+Adesivi per personalizzare laptop, quaderni e borracce.
+:::
+
+::: gadget-card
+![](img/sticker_c.png)
+
+### Sticker
+
+Adesivi per personalizzare laptop, quaderni e borracce.
+:::
+
+::: gadget-card
+![](img/borraccia.png)
+
+### Borraccia
+
+Gadget pratico sempre utile per lezioni e appunti.
+:::
+
+::: gadget-card
+![](img/bloc_notes.png)
+
+### Bloc Notes
+
+Piccoli gadget da collezione per le nostre iniziative.
+:::
+:::::::::::

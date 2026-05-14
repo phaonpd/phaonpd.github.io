@@ -1,0 +1,84 @@
+---
+format: html
+lightbox: true
+toc: false
+---
+
+
+<div class="events-hero">
+
+# Eventi PHA
+
+Spazi di ascolto, workshop e incontri dedicati al benessere psicologico universitario.
+
+</div>
+
+## Eventi passati
+
+<div class="event-grid">
+
+<div class="event-card">
+
+![](assets/event1.jpg)
+
+### Ansia da esame
+
+📅 14 Maggio 2026  
+📍 Aula Studio B
+
+Strategie pratiche per affrontare la sessione senza burnout.
+
+[Partecipa](#){.event-button}
+
+</div>
+
+
+<div class="event-card">
+
+![](assets/event2.jpg)
+
+### Mindfulness per studenti
+
+📅 20 Maggio 2026  
+📍 Online
+
+Un laboratorio esperienziale per rallentare e ritrovare concentrazione.
+
+[Partecipa](#){.event-button}
+
+</div>
+
+
+<div class="event-card">
+
+![](assets/event3.jpg)
+
+### Mindfulness per studenti
+
+📅 20 Maggio 2026  
+📍 Online
+
+Un laboratorio esperienziale per rallentare e ritrovare concentrazione.
+
+[Partecipa](#){.event-button}
+
+</div>
+
+<div class="event-card">
+
+![](img/argilla.jpg)
+
+### Laboratorio di ceramica
+
+📅 24 Aprile 2026  
+📍 Aula AMU
+
+Il laboratorio tratterà il tema della prevenzione delle infezioni sessualmente trasmissibili e delle gravidanze indesiderate e sarà facilitato dalla dott.ssa Cristina Audino, psicologa e consulente sessuale per "Medici del mondo Italia" ed esperta nella lavorazione della ceramica. 
+
+
+[Partecipa](https://forms.gle/YaAeNSMfFDM6Leu36){.event-button}
+
+</div>
+
+
+</div>

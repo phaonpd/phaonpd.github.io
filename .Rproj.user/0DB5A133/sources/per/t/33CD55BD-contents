@@ -1,0 +1,41 @@
+---
+title: "I nostri gadget"
+format: html
+toc: false
+---
+
+# 🎁 I nostri gadget
+
+Durante i banchetti promozionali puoi ricevere diversi gadget gratuiti legati alle attività del progetto.
+
+::: {.gadget-grid}
+
+::: {.gadget-card}
+![](img/Jesus.jpg)
+
+### Tote Bag
+Borsa in tela resistente, perfetta per l’università e la vita quotidiana.
+:::
+
+::: {.gadget-card}
+![](img/sticker_a.png)
+
+### Sticker Pack
+Adesivi per personalizzare laptop, quaderni e borracce.
+:::
+
+::: {.gadget-card}
+![](img/penna.jpg)
+
+### Penne
+Gadget pratico sempre utile per lezioni e appunti.
+:::
+
+::: {.gadget-card}
+![](img/spilla.jpg)
+
+### Spille
+Piccoli gadget da collezione per le nostre iniziative.
+:::
+
+:::

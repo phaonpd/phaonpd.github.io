@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+
+  navbar:
+    logo: assets/images/PROBEN-ministero-completo.png
+    right:
+      - href: index.qmd
+        text: Home
+        icon: house
+      - href: risorse.qmd
+        text: "Risorse"
+      - href: eventi.qmd
+        text: "Eventi"
+      - href: contatti.qmd
+        text: "Contatti"
+      - href: gadgets.qmd
+        text: "Gadgets"
+
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
